@@ -9,8 +9,6 @@ import (
 )
 
 var (
-	name       *string
-	year       *bool
 	oneDay     *bool
 	fiveDays   *bool
 	oneMonth   *bool
