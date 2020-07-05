@@ -9,6 +9,8 @@ Example:
 go run main.go VOO --1d
 ```
 
+![](./images/1.PNG)
+
 # Usage
 
 ```
